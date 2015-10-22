@@ -59,11 +59,11 @@ XML file for the given list of people and their details.
  
  **people.xml**
  
- Output for file of `JAXBMarshaller`
+ Output file of `JAXBMarshaller`
  
  **people.json**
  
- Output for file of `JAXBJson`
+ Output file of `JAXBJson`
 
 #### Program Execution
 1. Open the terminal .
