@@ -1,0 +1,58 @@
+{
+  "person" : [ {
+    "firstname" : "Ned",
+    "lastname" : "Stark",
+    "birthdate" : "1973-06-28T15:19:44.000+2:00",
+    "healthprofile" : {
+      "lastupdate" : "2014-05-08T21:16:51.000+2:00",
+      "weight" : 80.0,
+      "height" : 1.88,
+      "bmi" : 24.9
+    },
+    "id" : null
+  }, {
+    "firstname" : "Cersi",
+    "lastname" : "Lannister",
+    "birthdate" : "1976-06-25T15:30:14.000+2:00",
+    "healthprofile" : {
+      "lastupdate" : "2015-09-09T01:51:53.000+2:00",
+      "weight" : 72.0,
+      "height" : 1.78,
+      "bmi" : 23.1
+    },
+    "id" : null
+  }, {
+    "firstname" : "Jon",
+    "lastname" : "Snow",
+    "birthdate" : "1973-01-04T01:33:45.000+2:00",
+    "healthprofile" : {
+      "lastupdate" : "2014-10-18T17:53:31.000+2:00",
+      "weight" : 88.0,
+      "height" : 1.89,
+      "bmi" : 22.0
+    },
+    "id" : null
+  }, {
+    "firstname" : "Danarys",
+    "lastname" : "Targeryan",
+    "birthdate" : "1989-06-23T05:25:35.000+2:00",
+    "healthprofile" : {
+      "lastupdate" : "2015-10-06T15:16:34.000+2:00",
+      "weight" : 75.0,
+      "height" : 1.81,
+      "bmi" : 21.6
+    },
+    "id" : null
+  }, {
+    "firstname" : "Margery",
+    "lastname" : "Tyrell",
+    "birthdate" : "1977-02-02T17:32:38.000+2:00",
+    "healthprofile" : {
+      "lastupdate" : "2015-05-14T21:00:17.000+2:00",
+      "weight" : 83.0,
+      "height" : 1.86,
+      "bmi" : 20.9
+    },
+    "id" : null
+  } ]
+}
